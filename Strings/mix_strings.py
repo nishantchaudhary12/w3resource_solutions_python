@@ -1,5 +1,5 @@
-#Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$',
-# except the first char itself.
+#Write a Python program to get a single string from two given strings, separated by a space and swap the first two
+# characters of each string.
 
 
 def mix_string(sample_string_1, sample_string_2):
